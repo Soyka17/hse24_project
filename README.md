@@ -2,6 +2,10 @@
 
 Выбранный геном - [Trypanosoma theileri](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_002087225.1/) 
 
+> _Видовой комплекс Trypanosoma theileri включает паразитов крупного рогатого скота , передаваемых в основном слепнями и [кровососками](https://ru.wikipedia.org/wiki/Кровососки)._ 
+>
+> _Trypanosoma theileri является распространенным во всем мире гемопаразитом, о котором сообщалось на американском континенте у различных видов, включая крупный рогатый скот, буйволов и летучих мышей. У крупного рогатого скота высокая заболеваемость T. theileri может быть опасной в сочетании с другими инфекциями или в стрессовых ситуациях_
+
 Ход работы можно посмотреть [тут](https://colab.research.google.com/drive/1k5G9GmL0gzmnUuwsDX8LR5ABT_O31p7v?usp=sharing) и [тут](https://colab.research.google.com/drive/1DTn4ESRcJ1DcL-nImhDsqGUwJJnWyYS0?usp=sharing) 
 
 Таблица семейство ген (подробно см family_genes.tsv)
